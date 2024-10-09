@@ -78,6 +78,21 @@ body {
     text-decoration: underline;
 }
 
+.carousel-image-wrapper {
+  height: 800px; /* 设置固定高度 */
+  display: flex;
+  align-items: center; /* 垂直居中 */
+  justify-content: center; /* 水平居中（如果需要） */
+  overflow: hidden; /* 隐藏超出部分 */
+}
+
+.carousel-image {
+  max-height: 100%; /* 图片最大高度为容器高度 */
+  max-width: 100%; /* 图片最大宽度为容器宽度 */
+  object-fit: contain; /* 保持图片内容完整 */
+}
+
+
 .author-block {
   display: inline-block;
 }
