@@ -1,7 +1,7 @@
 # Academic Project Page Template
 This is an academic paper project page template.
 
-- https://mrakas.github.io/NEZHA/
+- https://prince687028.github.io/OpenUAV/
 
 
 Example project pages built using this template are:
